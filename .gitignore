@@ -1,0 +1,7 @@
+venv/
+.idea/
+*.csv
+*.log
+.DS_Store
+*.jsonl
+

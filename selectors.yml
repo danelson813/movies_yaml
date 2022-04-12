@@ -1,0 +1,22 @@
+name:
+    css: '#productTitle'
+    type: Text
+price:
+    css: 'span.a-size-base.a-color-secondary'
+    type: Text
+short_description:
+    css: 'span.a-text-bold'
+    type: Text
+images:
+    css: '.image-wrapper img'
+    type: Attribute
+    attribute: src
+rating:
+    css: span.a-size-medium.a-color-base.a-text-beside-button.a-text-bold
+    type: Text
+number_of_reviews:
+    css: '#acrCustomerReviewText'
+    type: Text
+sales_rank:
+    css: 'span.cat-name'
+    type: Text
